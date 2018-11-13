@@ -1,1 +1,1 @@
-learn submit
+console.log ("Hello, World!")
